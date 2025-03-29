@@ -1,4 +1,4 @@
-# **A to J with 7-Segment Display (Common Cathode) using AND-OR-NOT Gates**  
+# A to J with 7-Segment Display (Common Cathode) using AND-OR-NOT Gates
 
 ## **Project Overview**  
 This project involves designing a logic circuit to display the characters **A to J** on a **7-segment display** using only **AND, OR, and NOT gates**. The implementation follows a structured approach involving truth table formulation, Karnaugh map (K-Map) simplification, logic circuit design, and simulation.  
