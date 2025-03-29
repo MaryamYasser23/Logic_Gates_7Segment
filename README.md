@@ -10,7 +10,7 @@ This project involves designing a logic circuit to display the characters **A to
    - Consider inputs from **1010 (decimal 10) to 1111 (decimal 15) as "Don't Care" conditions** for optimization.  
 
 2. **Boolean Function Simplification**  
-   - Use **K-Maps** to simplify Boolean equations for each segment (A, b, C, d, E, F, g).  
+   - Use **K-Maps** to simplify Boolean equations for each segment.  
 
 3. **Logic Circuit Design**  
    - Draw the logic circuit diagram based on the simplified Boolean expressions.  
